@@ -1,3 +1,3 @@
 # Webiste erikvidaurri.xyz
 
-Home page for the website, that would be publishe using [Cloudflare Pages](https://pages.cloudflare.com/)
+Home page for the website pages.erikvidaurri.xyz, this would be published using [Cloudflare Pages](https://pages.cloudflare.com/)
