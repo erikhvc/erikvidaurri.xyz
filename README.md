@@ -1,4 +1,4 @@
-# Webiste pages.erikvidaurri.xyz
+# Home erikvidaurri.xyz
 
 ## Cloudflare Pages
 
